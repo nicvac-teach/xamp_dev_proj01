@@ -40,4 +40,13 @@ Creare ad es. il file `hello.php` in `proj01/`
 **Eseguire il progetto:**
 > https://{codespace}.app.github.dev/dashboard/proj01/hello.php
 
+## ➡️💾 Salvare il Database
+- aprire phpMyAdmin
+- selezionare il database
+- Export in SQL / spostare il file scaricato .sql in db_save / commit e push su github
+
+## 💾➡️ Ripristinare il Database
+- aprire phpMyAdmin
+- Import / caricare il file .sql presente in db_save
+
 </div>
